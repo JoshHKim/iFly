@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/joshu/CLionProjects/iFly/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+unordered_map
+-
+sstream
+-
+string
+-
+
